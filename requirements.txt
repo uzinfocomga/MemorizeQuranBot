@@ -1,0 +1,5 @@
+aiogram
+environs
+betterlogging
+icecream
+Babel
